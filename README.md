@@ -23,3 +23,5 @@ F1 Score: *83.9161*
 Confusion Matrix:
 *[[604 196]
  [ 80 720]]*
+
+### *Adjust the dataset paths correctly*
